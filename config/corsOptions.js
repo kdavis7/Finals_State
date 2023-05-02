@@ -1,6 +1,7 @@
 // set cors options with whitelist
 const whitelist = [
-    'yourproject.com',
+    'https://buttered-quiver-november.glitch.me',
+    'https://glitch.com/edit/#!/buttered-quiver-november',
    'https://dazzling-snickerdoodle-777101.netlify.app', 
     'http://127.0.0.1:5500', 
     'http://localhost:3500',
